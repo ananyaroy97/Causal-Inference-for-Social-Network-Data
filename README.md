@@ -5,8 +5,8 @@ This project investigates causal estimation methods in social network data, focu
 <table>
 <tr>
   <td>
-    <img src="https://github.com/ananyaroy97/Causal-Inference-for-Social-Network-Data/blob/main/CI_pref_10000.png" style="width:380px">
-    <img src="https://github.com/ananyaroy97/Causal-Inference-for-Social-Network-Data/blob/main/CI_small_10000.png" style="width:380px">
+    <img src="https://github.com/ananyaroy97/Causal-Inference-for-Social-Network-Data/blob/main/CI_pref_10000.png" style="width:400px">
+    <img src="https://github.com/ananyaroy97/Causal-Inference-for-Social-Network-Data/blob/main/CI_small_10000.png" style="width:400px">
  </td>
 </tr>
 <tr>
